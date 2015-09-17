@@ -1,20 +1,3 @@
 # Конфигурация для SOGo (взята из сборки ZEG)
 
-## 1. Dovecot 
-
-Настройки Dovecot находятся в одном файле -  /etc/dovecot/dovecot.conf
-
-### Ссылки
-
-  - Cookbook для Dovecot от проекта OpenChange [http://www.openchange.org/cookbook/backends/sogo/dovecot.html]
-  - Перевод конфигураций Dovecot [http://www.info-x.org/freebsd/email/nastroika_pochtovoi_sistemy_agent_dostavki_pochty_dovecot.html]
-
-----
-
-## 2. Postfix
-
-
-----
-
-## 3. Samba
-
+Тестовая конфигурация SOGo. Вскоре будет удалена.
