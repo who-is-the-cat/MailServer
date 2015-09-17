@@ -2,7 +2,9 @@
 
 ## 1. Dovecot 
 
-Настройки Dovecot находятся в одном файле -  /etc/dovecot/dovecot.conf
+1) dovecot.conf переместить в /etc/dovecot/
+2) Все конфигурационные файлы в /protocols.d/* переместить 
+   в /usr/share/dovecot/protocols.d/
 
 ### Ссылки
 
