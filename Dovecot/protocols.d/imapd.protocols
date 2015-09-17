@@ -1,1 +1,5 @@
+# Активация  почтового протокола IMAP
+#
+# Конфигурация подключается из /etc/dovecot/dovecot.conf
+#
 protocols = $protocols imap
