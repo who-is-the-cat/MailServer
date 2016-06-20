@@ -1,7 +1,7 @@
 Для зеркалирования директории Git с локальной директорией Dovecot следует
 выполнить следующую команду:
 
-rsync -r --exclude README --del * /etc/dovecot/
+$ rsync -r --exclude README --del * /etc/dovecot/
 
 где:
 -r		- рекурсивный режим
