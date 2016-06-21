@@ -1,5 +1,0 @@
-# Активация протокола LMTP (локальная пересылка почты) 
-#
-# Конфигурация подключается из /etc/dovecot/dovecot.conf
-#
-protocols = $protocols lmtp

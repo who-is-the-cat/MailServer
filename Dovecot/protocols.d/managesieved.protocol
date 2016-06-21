@@ -1,5 +1,0 @@
-# Активация протокола ManageSieve (управление скриптами фильтрации почты)
-#
-# Конфигурация подключается из /etc/dovecot/dovecot.conf
-#
-protocols = $protocols sieve
